@@ -52,7 +52,7 @@ The objective of this project is to build a Progressive Web Application (PWA) fo
 5. Test offline mode by turning off internet connection
 
 ## 🌐 Live Demo
-
+<img width="1355" height="727" alt="Image" src="https://github.com/user-attachments/assets/2fbfd5fb-2028-4df0-aa4b-f506e9bbcc51" />
 
 ## 👤 Author
 **PANDU**
